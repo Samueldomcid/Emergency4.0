@@ -1,0 +1,22 @@
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\bin\Release\Practica8.exe.config
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\bin\Release\Practica8.exe
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\bin\Release\Practica8.pdb
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Interfaz.csprojAssemblyReference.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Practica8.Form1.resources
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Practica8.Properties.Resources.resources
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Interfaz.csproj.GenerateResource.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Interfaz.csproj.CopyComplete
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Practica8.exe
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Proyecto final\Interfaz grafica\Practica8\obj\Release\Practica8.pdb
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Practica8.Form1.resources
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Practica8.Properties.Resources.resources
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Interfaz.csproj.GenerateResource.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Practica8.exe
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Practica8.pdb
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\bin\Release\Practica8.exe.config
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\bin\Release\Practica8.exe
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\bin\Release\Practica8.pdb
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Interfaz.csproj.CopyComplete
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Trabajo en ETSII\Interfaz grafica\Practica8\obj\Release\Interfaz.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\bin\Debug\Practica8.exe
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\bin\Debug\Practica8.pdb
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.csprojAssemblyReference.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.Form1.resources
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.Properties.Resources.resources
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.csproj.GenerateResource.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.csproj.CopyComplete
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.exe
+C:\Users\Samuel Domínguez Cid\Documents\Universidad\4º curso\Informática y comunicaciones industriales\Practicas\Practica 8\Practica_8_aplicacion\Practica8\Practica8\obj\Debug\Practica8.pdb
