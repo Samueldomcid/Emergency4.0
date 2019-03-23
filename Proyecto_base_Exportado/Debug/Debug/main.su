@@ -1,0 +1,15 @@
+Callback.h:649:14:static R mbed::Callback<R()>::function_call(const void*) [with F = void (*)(); R = void]	8	static
+Callback.h:655:17:static void mbed::Callback<R()>::function_move(void*, const void*) [with F = void (*)(); R = void]	0	static
+Callback.h:661:17:static void mbed::Callback<R()>::function_dtor(void*) [with F = void (*)(); R = void]	0	static
+main.cpp:123:9:void EnviaDatos()	24	static
+Serial.h:53:7:mbed::Serial::~Serial()	8	static
+Ticker.h:149:13:mbed::Ticker::~Ticker()	8	static
+main.cpp:136:1:void __static_initialization_and_destruction_0(int, int)	24	static
+Ticker.h:149:13:virtual mbed::Ticker::~Ticker()	8	static
+main.cpp:42:6:void Reset()	0	static
+main.cpp:29:9:int main()	64	static
+main.cpp:95:6:void RedirigeSenal()	0	static
+main.cpp:113:6:void ActualizaSenal()	0	static
+main.cpp:61:9:void myirq()	8	static
+Serial.h:53:7:virtual mbed::Serial::~Serial()	8	static
+main.cpp:136:1:cpp)	8	static

@@ -1,0 +1,28 @@
+Project: Practica3_ICI_parte2
+Converter: ST System Workbench for STM32 project converter
+Date: 20181023
+
+No map found for id: gnu.c.compiler.option.include.files
+No map found for id: gnu.c.compiler.option.warnings.extrawarn
+No map found for id: gnu.c.compiler.option.optimization.flags
+No map found for id: gnu.cpp.compiler.option.include.files
+No map found for id: gnu.cpp.compiler.dialect.gnu99
+No map found for id: gnu.cpp.compiler.option.warnings.allwarn
+No map found for id: gnu.cpp.compiler.option.warnings.extrawarn
+Option == null: com.atollic.truestudio.gcc.optimization.prep_garbage
+No map found for id: gnu.cpp.compiler.option.optimization.flags
+Option == null: com.atollic.truestudio.gpp.misc
+Unsupported option value type: userObjs
+No map found for id: gnu.cpp.link.option.flags
+No map found for id: gnu.c.compiler.option.include.files
+No map found for id: gnu.c.compiler.option.warnings.extrawarn
+No map found for id: gnu.c.compiler.option.optimization.flags
+No map found for id: gnu.cpp.compiler.option.include.files
+No map found for id: gnu.cpp.compiler.dialect.gnu99
+No map found for id: gnu.cpp.compiler.option.warnings.allwarn
+No map found for id: gnu.cpp.compiler.option.warnings.extrawarn
+Option == null: com.atollic.truestudio.gcc.optimization.prep_garbage
+No map found for id: gnu.cpp.compiler.option.optimization.flags
+Option == null: com.atollic.truestudio.gpp.misc
+Unsupported option value type: userObjs
+No map found for id: gnu.cpp.link.option.flags

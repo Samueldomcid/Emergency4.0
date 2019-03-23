@@ -1,0 +1,16 @@
+AnalogIn.h:111:13:mbed::AnalogIn::~AnalogIn()	0	static
+AnalogIn.h:118:18:virtual void mbed::AnalogIn::lock()	0	static
+AnalogIn.h:123:18:virtual void mbed::AnalogIn::unlock()	0	static
+Callback.h:649:14:static R mbed::Callback<R()>::function_call(const void*) [with F = void (*)(); R = void]	8	static
+Callback.h:655:17:static void mbed::Callback<R()>::function_move(void*, const void*) [with F = void (*)(); R = void]	0	static
+Callback.h:661:17:static void mbed::Callback<R()>::function_dtor(void*) [with F = void (*)(); R = void]	0	static
+AnalogIn.h:111:13:virtual mbed::AnalogIn::~AnalogIn()	8	static
+Ticker.h:149:13:mbed::Ticker::~Ticker()	8	static
+Serial.h:53:7:mbed::Serial::~Serial()	8	static
+main.cpp:34:6:void enviar_visual()	16	static
+AnalogIn.h:60:5:mbed::AnalogIn::AnalogIn(PinName)	8	static
+main.cpp:58:1:void __static_initialization_and_destruction_0(int, int)	24	static
+Ticker.h:149:13:virtual mbed::Ticker::~Ticker()	8	static
+main.cpp:52:5:int main()	48	static
+Serial.h:53:7:virtual mbed::Serial::~Serial()	8	static
+main.cpp:58:1:cpp)	8	static
